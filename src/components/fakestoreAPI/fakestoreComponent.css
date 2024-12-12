@@ -1,0 +1,7 @@
+.card-header{
+    height: 100px;
+}
+main{
+    height: 600px;
+    overflow: auto;
+}
